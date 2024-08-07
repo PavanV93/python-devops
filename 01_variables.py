@@ -67,7 +67,7 @@ b = 24
 c = 60
 d = 60
 e = a * b * c * d
-print(e)
+print(e, type(e))
 
 # divide
 a = 365

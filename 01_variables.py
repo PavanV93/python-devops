@@ -20,5 +20,26 @@ This is a multi line string
 d = 'Today\ weather is cool'
 print (d)
 
+"""
+- List
+- Tuple
+- set
+- Dictionary
+"""
+# This is a list
+test_list = ["hello", "iam", "learning", "pythonscripting"]
+print(test_list)
 
-d = "Today weather is cool"
+
+# Tuple
+test_tuple = ("hello", "iam", "learning", "pythonscripting")
+print(test_tuple)
+
+# Set
+test_set = {'a', 'b', "abc"}
+print(test_set)
+
+# Dictionary
+test_dictionary = {'a': 1, 'b': 2}
+print(test_dictionary)
+

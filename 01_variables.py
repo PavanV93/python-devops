@@ -36,10 +36,15 @@ test_tuple = ("hello", "iam", "learning", "pythonscripting")
 print(test_tuple)
 
 # Set
+# consider the value in an arbitary way
 test_set = {'a', 'b', "abc"}
 print(test_set)
 
 # Dictionary
 test_dictionary = {'a': 1, 'b': 2}
 print(test_dictionary)
+
+# type () function -->> prints the datatype of the variable
+print(type(test_dictionary))
+
 

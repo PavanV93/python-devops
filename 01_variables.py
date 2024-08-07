@@ -50,8 +50,8 @@ print(type(test_dictionary))
 # Operations
 
 # add
-a = radha
-b = krishna
+a = 2024
+b = 1975
 c = a + b
 print(c)
 

@@ -81,6 +81,10 @@ b = 7
 c = a / b
 print(c, type(c))
 
+# Modulo divison
+c = a % b
+print(c)
+
 
 
 

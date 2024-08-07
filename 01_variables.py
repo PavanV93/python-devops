@@ -75,6 +75,12 @@ b = 7
 c = a / b
 print(c)
 
+# Integer divison
+a = 365
+b = 7
+c = a / b
+print(c, type(c))
+
 
 
 

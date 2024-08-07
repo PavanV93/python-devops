@@ -17,5 +17,8 @@ f = """
 This is a multi line string
 """
 # Today weather is cool
-d = 'Today' weather is cool'
+d = 'Today\ weather is cool'
 print (d)
+
+
+d = "Today weather is cool"

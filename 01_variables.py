@@ -47,4 +47,35 @@ print(test_dictionary)
 # type () function -->> prints the datatype of the variable
 print(type(test_dictionary))
 
+# Operations
+
+# add
+a = radha
+b = krishna
+c = a + b
+print(c)
+
+# sub
+a = 2024
+b = 1993
+c = a- b
+print(c)
+
+# multiple
+a = 7
+b = 24
+c = 60
+d = 60
+e = a * b * c * d
+print(e)
+
+# divide
+a = 365
+b = 7
+c = a / b
+print(c)
+
+
+
+
 

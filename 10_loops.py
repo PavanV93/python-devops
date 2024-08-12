@@ -5,5 +5,5 @@ sample_list = ["ansible", "Terraform", "Jenkins", "Docker"]
 
 # print the element and its corresponding index
 
-for ele in enumerate(sample_list):
+for idx, ele in enumerate(sample_list):
     print(ele)
